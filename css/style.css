@@ -1,0 +1,61 @@
+#imagem-card{
+    color: #fff;
+    background-color: brown;
+}
+
+#imagem-card1{
+    width: 200%;
+    height: 700px;
+}
+
+#imagem-card2{
+    color: rgb(251, 251, 251);
+    background-color: #9d1111;
+}
+#imagem-card2{
+    color: rgb(216, 18, 18);
+    background-color: rgb(255, 255, 255); l
+     scrollbar-face-color: ;
+}
+
+body {  		
+    background-color: #9d1111;  
+    color: #fff;	
+ }  
+
+ #imagem-card3{
+    color: rgb(251, 251, 251);
+    background-color: rgb(68, 66, 66);
+ }
+
+ #imagem-card4{
+    color: rgb(251, 251, 251);
+    background-color: rgb(68, 66, 66);
+ }
+
+ #imagem-card5{
+    color: rgb(251, 251, 251);
+    background-color: rgb(68, 66, 66);
+ }
+
+ footer {
+	background-color: #790000;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#card0{
+
+    color: rgb(251, 251, 251);
+    background-color: #9d1111;
+}
+
+h1{
+    color: #fff;
+}
+
+h3{
+    color: #fff;
+}
